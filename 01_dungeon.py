@@ -202,4 +202,3 @@ class GameDungeon:
 if __name__ == '__main__':
     game = GameDungeon()
     game.Start()
-    #TODO допилить проигрыш, протестить все проходы
